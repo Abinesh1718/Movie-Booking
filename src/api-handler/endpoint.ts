@@ -1,0 +1,5 @@
+export const REGISTER = 'register'
+export const LOGIN = 'login'
+export const BOOK = 'book'
+export const BOOKINGS = 'bookings'
+export const ALL_BOOKING = 'allbookings'
